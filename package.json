@@ -23,7 +23,7 @@
         "react-bootstrap": "^1.0.0",
         "react-dom": "16.11.0",
         "react-scripts": "3.2.0",
-        "web3": "1.2.2"
+        "web3": "1.10.3"
     },
     "bugs": {
         "url": "https://github.com/gfg/gfg/issues"
