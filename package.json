@@ -1,0 +1,32 @@
+{
+    "name": "medsecure",
+    "version": "1.0.0",
+    "description": "GeeksForGeeks",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node start.js"
+    },
+    "author": "GeeksForGeeks",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gfg/gfg.git"
+    },
+    "dependencies": {
+        "antd": "^3.9.0",
+        "axios": "^0.19.2",
+        "bootstrap": "^4.4.1",
+        "bs58": "^4.0.1",
+        "ipfs-api": "^26.1.2",
+        "react": "16.11.0",
+        "react-bootstrap": "^1.0.0",
+        "react-dom": "16.11.0",
+        "react-scripts": "3.2.0",
+        "web3": "1.2.2"
+    },
+    "bugs": {
+        "url": "https://github.com/gfg/gfg/issues"
+    },
+    "homepage": "https://github.com/gfg/gfg#readme"
+}
